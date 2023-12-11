@@ -3807,11 +3807,13 @@ body.loaded {
 
 .sticky-sidebar .left-header .header-logo a {
   height: 100px;
+  border-radius: 20px;
 }
 
 .sticky-sidebar .left-header .header-logo img {
   height: 100%;
   width: auto;
+  border-radius: 20px;
 }
 
 .sticky-sidebar .right-header {
@@ -5677,6 +5679,7 @@ footer .subscribe button {
 
 footer .logo a {
   max-width: 120px;
+  border-radius: 20px;
 }
 
 footer .bg-pattern {
