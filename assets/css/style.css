@@ -3807,13 +3807,13 @@ body.loaded {
 
 .sticky-sidebar .left-header .header-logo a {
   height: 100px;
-  border-radius: 20px;
+ border-radius: 20px !important; 
 }
 
 .sticky-sidebar .left-header .header-logo img {
   height: 100%;
   width: auto;
-  border-radius: 20px;
+  border-radius: 20px !important; 
 }
 
 .sticky-sidebar .right-header {
@@ -9855,7 +9855,7 @@ header.in-box {
   }
   .topnav .logo {
     width: 100px;
-    border-radius: 20px;
+    border-radius: 20px !important; 
   }
   .hamenu {
     padding: 120px 15px 15px;
