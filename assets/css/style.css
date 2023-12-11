@@ -1606,6 +1606,7 @@ img.left {
 
 .icon-img-100 {
   width: 100px;
+  border-radius: 20px !important;
 }
 
 .icon-img-120 {
@@ -9473,7 +9474,7 @@ header.in-box {
   .navbar .logo {
     max-width: 80px !important;
     margin-left: 30px;
-    border-radius: 20px;
+    border-radius: 20px !important; 
   }
   .navbar .navbar-collapse {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
