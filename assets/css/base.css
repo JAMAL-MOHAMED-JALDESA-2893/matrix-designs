@@ -1,4 +1,8 @@
 
+.logo{
+	border-radius: 15px;
+}
+
 
 .hover-reveal {
 	position: fixed;
